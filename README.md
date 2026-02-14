@@ -7,7 +7,7 @@
 ---
 
 ## About Me
-I’m a **Cybersecurity student at St. Cloud State University**, graduating in **December 2025**, with a strong interest in **Security Operations Center (SOC) work, alert triage, and incident response**. I enjoy hands-on technical work and building labs that reflect how security teams actually investigate and respond to events in real environments.
+I’m a **Cybersecurity student at St. Cloud State University**, graduating in **May 2026**, with a strong interest in **Security Operations Center (SOC) work, alert triage, and incident response**. I enjoy hands-on technical work and building labs that reflect how security teams actually investigate and respond to events in real environments.
 
 ---
 
